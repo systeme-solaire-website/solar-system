@@ -1,7 +1,9 @@
 # solar-system
-Ce site présente le système solaire
-<br> <br>
-images :
+Ce site présente le système solaire.
+<br>
+Pour un visionnage optimal, un ordinateur ou un grand écran est recommandé.
+<br><br>
+ Sources images :
 <br>
 -https://cdn.futura-sciences.com/
 <br>
