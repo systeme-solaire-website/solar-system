@@ -55,5 +55,5 @@ images :
 <br>
 -https://c0.klipartz.com/
 <br><br>
-<p class=&copy  >
+<p class=&copy &copy>
 Copyright janvier 2023
